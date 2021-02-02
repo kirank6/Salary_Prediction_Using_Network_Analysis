@@ -7,3 +7,8 @@
 <img src = "Extract node features.PNG">
 <img src = "Closeness centrality.PNG">
 <img src = "Betweenness Centrality.PNG">
+<img src = "Logistic Regression.PNG">
+<img src = "Cross_validation.PNG">
+<img src = "GradientBoosting Classifier.PNG">
+<img src = "predicted salary.PNG">
+
